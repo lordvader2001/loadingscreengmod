@@ -14,7 +14,7 @@ var l_serverImage = "logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "sleekLoad 2";
+var l_serverName = "Rebelia RP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -91,6 +91,7 @@ Place how much .ogg songs you want
 var l_musicPlaylist = [
 	{ogg: "lullaby.ogg", name: "Lullaby of Deserted Hell"},
 	{ogg: "falls_in_fall.ogg", name: "秋に舞う椛と滝飛沫"},
+    {ogg: "starwarsepic.ogg", name: "Epickie Force Theme"},
 	{youtube: "zA6wRutN_7Q", name: "Suwa-cafeteria"},
 	{youtube: "KtlKbE4qU0c", name: "月の妖鳥、化猫の幻"},
 ];
@@ -107,9 +108,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Enjoy the server",
-	"Thanks for joining us!",
-	"Did you know these backgrounds and songs are from Touhou?"
+	"Milej Zabawy!",
+	"Dzieki za to ze wbiles!",
+	"Han Solo strzelil pierwszy!"
 ];
 
 /*Random message order?*/
