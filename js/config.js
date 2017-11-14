@@ -55,8 +55,9 @@ Multiple images will automatically shuffle between them
 var l_bgImages = [
 	"atat.jpg",
 	"jedi.jpg",
-	"milenium.jpg"
-	"milenium2.jpg"
+	"milenium.jpg",
+	"milenium2.jpg",
+
 ];
 
 /*Random background images order?*/
@@ -92,7 +93,7 @@ Place how much .ogg songs you want
 var l_musicPlaylist = [
 	{youtube: "JeMgZPrIj3s", name: "DJ AG Force Theme"},
 	{youtube: "cV_ZvMV2MM0", name: "Epickie Force Theme"},
-	{youtube: "qzQahpxucKk", name: "Epickie Force Theme V2"},
+	
 ];
 
 /*Random music order?*/
