@@ -57,7 +57,6 @@ var l_bgImages = [
 	"jedi.jpg",
 	"milenium.jpg"
 	"milenium2.jpg"
-	
 ];
 
 /*Random background images order?*/
