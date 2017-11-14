@@ -53,9 +53,11 @@ Place one or more images
 Multiple images will automatically shuffle between them
 (Put the files in the backgrounds/images folder)*/
 var l_bgImages = [
-	"touhou01.jpg",
-	"touhou02.jpg",
-	"touhou03.jpg"
+	"atat.jpg",
+	"jedi.jpg",
+	"milenium.jpg"
+	"milenium2.jpg"
+	
 ];
 
 /*Random background images order?*/
@@ -89,8 +91,9 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-    {ogg: "starwarsepic.ogg", name: "Epickie Force Theme"},
 	{youtube: "JeMgZPrIj3s", name: "DJ AG Force Theme"},
+	{youtube: "cV_ZvMV2MM0", name: "Epickie Force Theme"},
+	{youtube: "qzQahpxucKk", name: "Epickie Force Theme V2"},
 ];
 
 /*Random music order?*/
